@@ -1,0 +1,8 @@
+C:\DevC\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.exe.config
+C:\DevC\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.exe
+C:\DevC\ContaCorrente\ContaCorrente\bin\Debug\ContaCorrente.pdb
+C:\DevC\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csproj.AssemblyReference.cache
+C:\DevC\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csproj.SuggestedBindingRedirects.cache
+C:\DevC\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.csproj.CoreCompileInputs.cache
+C:\DevC\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.exe
+C:\DevC\ContaCorrente\ContaCorrente\obj\Debug\ContaCorrente.pdb
